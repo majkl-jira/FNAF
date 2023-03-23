@@ -1,0 +1,11 @@
+body {
+    background: url(../img/Menu.png) no-repeat center center fixed;
+    background-size: 100%; 
+}
+*{
+    user-select: none;
+}
+div{
+    font-size: 10rem;
+    color: white;
+}
