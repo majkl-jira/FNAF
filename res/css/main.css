@@ -1,6 +1,7 @@
 body {
     background: url(../img/Menu.png) no-repeat center center fixed;
     background-size: 100%; 
+    background-color: black;
 }
 *{
     user-select: none;
