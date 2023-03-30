@@ -9,6 +9,7 @@ body {
 div{
     font-size: 10rem;
     color:white;
+    position: relative;
 }
 .flex-boxik {
     display: flex;
@@ -25,4 +26,12 @@ div{
 a {
     text-decoration: none;
     color: white;
+}
+#door {
+    position: absolute;
+    top: 1.7%;
+    left: 0%;
+    width: 1920px;
+    height: 923px;
+    display: none;
 }
