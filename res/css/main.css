@@ -7,5 +7,17 @@ body {
 }
 div{
     font-size: 10rem;
-    color: white;
+    color:white;
+}
+.flex-boxik {
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5em;
+    user-select: none;
+}
+.flex-boxik :hover {
+    transition:0.25s;
+    font-size: 12rem;
+    color: red;
+    cursor: pointer;
 }
